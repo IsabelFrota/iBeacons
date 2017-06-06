@@ -1,2 +1,2 @@
 # iBeacons
-Desenvolvimento aplicativo em ionic para escanear beacons.
+Aplicativo em ionic para escanear beacons.
